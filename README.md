@@ -1,9 +1,9 @@
-# ALC Android Challenge 1
+# ALC 4.0: Phase 1 Challenge- Android
 
-This repository represents my code for the Andela Learning Community Android Challenge 1
+This repository represents my code for the [Andela Learning Community 4.0 Phase 1 Challenge - Android](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview)
 
-# How to run it.
-Well:
+# How to run it:
+
   - Clone this repository to your local machine.
   - Open the project in android studio.
   - Connect a virtual android device or a physical android device.
